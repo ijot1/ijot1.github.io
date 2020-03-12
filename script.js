@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://obscure-plains-45769.herokuapp.com/';
+  var apiRoot = 'https://obscure-plains-45769.herokuapp.com/vi/task/';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
